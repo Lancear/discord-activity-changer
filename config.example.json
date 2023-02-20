@@ -1,0 +1,17 @@
+{
+  "client_id": "Discord developer application client id",
+  "client_secret": "Discord developer application client secret",
+  "redirect_uri": "Discord developer application redirect uri, eg. http://localhost:6969",
+  "channel_ids": ["channel ids to consider", "for updating the activity image"],
+  "user_ids": [
+    "user ids to consider",
+    "for updating the activity image",
+    "leave empty to consider all"
+  ],
+  "activity": {
+    "details": "Chillin' & Vibin'",
+    "state": "Hellö 👋",
+    "image_text": "YOOOW!",
+    "nr_of_images": 37
+  }
+}
