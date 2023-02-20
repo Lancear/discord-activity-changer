@@ -2,7 +2,8 @@
 
 A simple cli tool with json config which lets you update the image in your
 custom activity every time you or someone else sends a message in the channels
-you subscribed to in the config.
+you subscribed to in the config. The images should be added as assets to the
+Discord developer application and numbers incrementally starting from 1.
 
 Simply copy the `config.example.json` file to `config.json` and fill
 with the config data you want.
